@@ -1,0 +1,2 @@
+[12:26:29:861] [WARN] - com.zaxxer.hikari.util.DriverDataSource.<init>(DriverDataSource.java:68) - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[21:33:01:185] [WARN] - com.zaxxer.hikari.util.DriverDataSource.<init>(DriverDataSource.java:68) - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.

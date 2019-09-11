@@ -1,0 +1,9 @@
+[00:05:27:053] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1248) - No mapping for GET /swagger-ui.html
+[00:05:31:333] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1248) - No mapping for GET /swagger-ui.html
+[00:05:37:325] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1248) - No mapping for GET /swagger-ui.html
+[00:06:08:713] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1248) - No mapping for GET /swagger-ui.html
+[00:13:38:568] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1248) - No mapping for GET /image/7bf6f01c-3066-4319-a540-b26ad7348d26.png
+[00:13:47:120] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1248) - No mapping for GET /image/
+[00:13:48:983] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1248) - No mapping for GET /image
+[00:16:33:187] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1248) - No mapping for GET /swagger-ui.html
+[00:17:51:513] [WARN] - org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException(AbstractHandlerExceptionResolver.java:197) - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
